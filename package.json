@@ -1,0 +1,23 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saurabhsahab/Notes-App.git"
+  },
+  "author": "Saurabh Upadhayay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saurabhsahab/Notes-App/issues"
+  },
+  "homepage": "https://github.com/Saurabhsahab/Notes-App#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "validator": "^13.6.0"
+  }
+}
